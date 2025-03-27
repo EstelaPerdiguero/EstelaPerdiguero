@@ -1,5 +1,5 @@
 # Hola y Bienvenidos 👋
-![jhgjhg] (https://img.freepik.com/vector-premium/art-night-sky-retro-pixel-8bit-juego-fondo-noche_1334819-34751.jpg)
+![jhgjhg](https://img.freepik.com/vector-premium/art-night-sky-retro-pixel-8bit-juego-fondo-noche_1334819-34751.jpg)
 <!--
 **EstelaPerdiguero/EstelaPerdiguero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
