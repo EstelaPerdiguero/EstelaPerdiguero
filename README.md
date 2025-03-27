@@ -13,7 +13,14 @@
 ### ✨Idiomas✨
 - Español
 - Ingles B1 ALto certificado
-### ✨Ejemplos Arte✨
+### ✨Ejemplos piezas de Arte✨
+![jhgjhg](20250327_202037.jpg)
+![jhgjhg](20250327_202112.jpg)
+![jhgjhg](20250327_202130.jpg)
+### ✨Contactos✨
+- estelap.animacion@gmail.com
+
+***Muchas gracias por pasarse~✨***
 <!--
 **EstelaPerdiguero/EstelaPerdiguero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
