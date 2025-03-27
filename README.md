@@ -2,7 +2,7 @@
 ![jhgjhg](https://img.freepik.com/vector-premium/art-night-sky-retro-pixel-8bit-juego-fondo-noche_1334819-34751.jpg)
 ### -✨Sobre mi✨
 - Ilustradora en tradicional e digital y Estudiante de Animacion especializada en Animacion y Modelado
-- Disfruto del anime, los videojuegos y Vocaloid
+- Disfruto del anime, los videojuegos y Vocaloid 
 ### ✨Capacidades✨ ###
 #### Se usar los siguientes programas
 - Maya
@@ -10,6 +10,10 @@
 - Krita
 - Medibang
 - Substance Painter
+### ✨Idiomas✨
+- Español
+- Ingles B1 ALto certificado
+### ✨Ejemplos Arte✨
 <!--
 **EstelaPerdiguero/EstelaPerdiguero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
